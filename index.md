@@ -12,6 +12,6 @@ Calculating solutions to math problems with buttons
 
 ![SkyGame](https://github.com/wchristinaa/Programming1/blob/gh-pages/Images/SkyGame.png)
 
-[Source Code](SpaceGame)
+[Source Code](https://github.com/wchristinaa/Programming1/tree/gh-pages/SpaceGame)
 
 ## Python Projects
