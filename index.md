@@ -10,7 +10,7 @@ Calculating solutions to math problems with buttons
 ### SkyGame
 00P solution for a colision based graphics sky shooter game
 
-![SkyGame]()
+![SkyGame](https://github.com/wchristinaa/Programming1/blob/gh-pages/SkyGame.png)
 
 [Source Code]()
 
