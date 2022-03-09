@@ -5,7 +5,11 @@
 ## Processing Projects
 
 ### Calculator
-Calculating solutions to math problems with buttons
+OOP solution for a graphics based calculator
+
+![Calculator]()
+
+[Source Code]()
 
 ### SkyGame
 00P solution for a colision based graphics sky shooter game
