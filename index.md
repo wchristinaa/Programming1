@@ -7,7 +7,7 @@
 ### Calculator
 OOP solution for a graphics based calculator
 
-![Calculator](https://github.com/wchristinaa/Programming1/blob/gh-pages/Images/Calculator.png)
+![Calculator](Images/Calculator.png)
 
 [Source Code](https://github.com/wchristinaa/Programming1/blob/gh-pages/SourceCode/Calculator.zip)
 
