@@ -1,7 +1,7 @@
 # Christina Wu's Programming portfolio
 
 2021-2022 Programming Projects for Processing and Python.
-(Wuchristina15@gmail.com(
+(Wuchristina15@gmail.com)
 
 ## Processing Projects
 
